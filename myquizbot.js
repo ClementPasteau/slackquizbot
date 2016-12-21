@@ -1,2 +1,2 @@
 var QuizBot = require('slackquizbot');
-var myQuizBot = new QuizBot("xoxb-119345747762-47fDFUMMHWqXkBTS2jfo7goF");
+var myQuizBot = new QuizBot("_TOKEN_HERE_");
